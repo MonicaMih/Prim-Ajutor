@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922424655614",
+    "project_id": "prim-ajutor-fde87",
+    "storage_bucket": "prim-ajutor-fde87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922424655614:android:e2b96495aed2db1cf2afaf",
+        "android_client_info": {
+          "package_name": "com.primajutor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922424655614-rgneli7qlqf9jta6gdv5lo04i0t69j97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpBv_MtRPREo7NfBv5Wow2jqhOYJZb_18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922424655614-rgneli7qlqf9jta6gdv5lo04i0t69j97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
